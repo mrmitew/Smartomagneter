@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Smartomagneter</string>
+
+    <string name="java_sensor_manager_implementation">Java implementation</string>
+    <string name="native_sensor_manager_implementation">Native implementation</string>
+    <string name="sensor_manager_implementation_changed_to_1s">Manager implementation changed to %1$s</string>
+    <string name="sensor_manager_type_java">Java</string>
+    <string name="sensor_manager_type_native">Native</string>
+
+    <string name="magnetic_field_strength_1s">%1$s μT</string>
+
+    <string name="needs_calibration">Needs calibration</string>
+    <string name="unknown">Unknown</string>
+
+    <string name="unreliable_accuracy">Unreliable accuracy</string>
+    <string name="high_accuracy">High accuracy</string>
+    <string name="medium_accuracy">Medium accuracy</string>
+    <string name="low_accuracy">Low accuracy</string>
+    <string name="unknown_accuracy">Unknown accuracy</string>
+
+    <string name="delay_fastest_1s">Fastest - %1$s μs</string>
+    <string name="delay_game">Game - 20,000 μs</string>
+    <string name="delay_ui">UI - 60,000 μs</string>
+    <string name="delay_normal">Normal - 200,000 μs</string>
+    <string name="delay_slowest_1s">Slowest - %1$s μs</string>
+</resources>
