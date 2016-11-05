@@ -36,5 +36,6 @@ However, the real reason for making this app was to demonstrate:
 ## Changelog
 ## 1.0.1
 * [fix] Switching to fastest sensor delay would not properly work using the Java implementation
+
 ## 1.0.0
 * Initial version
