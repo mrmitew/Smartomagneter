@@ -31,6 +31,7 @@ public class JavaMagneticSensorManager extends AbstractMagneticSensorManager
     @Override
     public void registerSensorListener(final int delay) {
         switch (delay) {
+            case 10000:
             case 0:
                 mSensorManager.registerListener(this, mMagneticSensor,
                         android.hardware.SensorManager.SENSOR_DELAY_FASTEST);
