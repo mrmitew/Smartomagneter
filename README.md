@@ -34,8 +34,8 @@ However, the real reason for making this app was to demonstrate:
 * [Github issues](https://github.com/mrmitew/Smartomagneter/issues)
 
 ## Changelog
-## 1.0.1
+**1.0.1**
 * [fix] Switching to fastest sensor delay would not properly work using the Java implementation
 
-## 1.0.0
+**1.0.0**
 * Initial version
