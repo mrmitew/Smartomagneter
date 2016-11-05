@@ -51,3 +51,6 @@ long consumerIndex;
 long producerNode;
 long consumerNode;
 }
+
+# Custom
+-keep class com.stetcho.smartomagneter.framework.measurement.model.NativeMagneticSensorManager { *; }
