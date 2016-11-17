@@ -12,6 +12,8 @@ However, the real reason for making this app was to demonstrate:
 * how to use sensor.h or how to work with sensors on Android using Java and/or native code
 * how to call APIs from the Android NDK using Java Native Interface
 
+If you want to try the sample app, you can either build it yourself or download it from the Google Play Store: https://play.google.com/store/apps/details?id=com.stetcho.smartomagneter
+
 ## How to switch between *Java* and *Native* implementation?
 
 * Long press on an empty space. 
